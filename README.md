@@ -1,5 +1,5 @@
 
-<!--github-readme-stats-->
+<!--github-readme-stats: https://github.com/anuraghazra/github-readme-stats-->
 <!--[yongqi's GitHub stats]-->
 <img src = "https://github-readme-stats.vercel.app/api?username=Yongqi10&show_icons=true&theme=radical&hide=stars"/>
 <!-- [Top Langs] -->
@@ -7,7 +7,7 @@
 
 
 
-
+<!-- markdown-badges: https://github.com/Ileriayo/markdown-badges -->
 ### Languages:
 
 <img align = "left" alt = "C++" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
